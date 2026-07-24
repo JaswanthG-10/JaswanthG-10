@@ -1,618 +1,272 @@
-<!-- ===================================================== -->
-<!--                  ANIMATED HEADER                       -->
-<!-- ===================================================== -->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=6,12,18,20,24&text=Jaswanth%20G&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20Software%20Engineering%20%7C%20Open%20Source&descAlignY=55"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Jaswanth%20G&fontSize=50&fontAlign=50&fontColor=ffffff&animation=fadeIn&color=0:4F46E5,100:06B6D4"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=Computer+Science+Engineering+Student;Aspiring+AI%2FML+Engineer;Software+Engineering+Enthusiast;Building+Real+World+Projects;Open+Source+Learner)](https://git.io/typing-svg)
-
-</div>
-
----
-
-# <div align="center">Hi 👋, I'm Jaswanth G</div>
-
-<div align="center">
-
-### AI/ML Engineer in Progress • Software Engineering Enthusiast • Open Source Learner
-
-</div>
-
----
-
-## Badges
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/B.E-CSE-blueviolet?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Year-2nd-purple?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Focus-AI%2FML-6C63FF?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Open%20Source-Learning-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/India-Tamil%20Nadu-orange?style=for-the-badge"/>
-
-</p>
-
----
-
-## Connect
-
-<p align="center">
-
-<a href="https://github.com/JaswanthG-10">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="mailto:jaswanthg274@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-## About Me
-
-I'm **Jaswanth G**, a Computer Science Engineering student passionate about building intelligent software systems and solving real-world problems with technology.
-
-My primary interests include:
-
-- Artificial Intelligence
-- Machine Learning
-- Software Engineering
-- Backend Development
-- Full Stack Development
-- Databases
-- Data Structures & Algorithms
-- Open Source
-
-Currently working on strengthening my software engineering fundamentals while building AI-powered applications and practical portfolio projects.
-
----
-
-# Open To
-
-- Software Engineering Internships
-- AI/ML Internships
-- Open Source Contributions
-- Research Opportunities
-- Hackathons
-- Technical Communities
-
----
-
-# Tech Stack
-
-## Languages
+<h2>💻 Software Engineering Student | Python Developer | AI/ML Enthusiast</h2>
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://skillicons.dev/icons?i=java"/>
-
-<img src="https://skillicons.dev/icons?i=c"/>
-
-<img src="https://skillicons.dev/icons?i=cpp"/>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
+Building real-world software, strengthening engineering fundamentals, and exploring AI one project at a time.
 </p>
-
----
-
-## Frontend
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=html"/>
-
-<img src="https://skillicons.dev/icons?i=css"/>
-
-<img src="https://skillicons.dev/icons?i=js"/>
-
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=750&lines=Turning+Ideas+Into+Software;Python+%7C+MySQL+%7C+Git;Learning+Data+Structures+%26+Algorithms;Building+AI+Projects;Always+Learning+Something+New"/>
 </p>
-
----
-
-## Backend
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://skillicons.dev/icons?i=flask"/>
-
-<img src="https://skillicons.dev/icons?i=nodejs"/>
-
-</p>
-
----
-
-## Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-</p>
-
----
-
-## AI / ML
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-</p>
-
-Learning:
-
-- NumPy
-- Pandas
-- Scikit-Learn
-- TensorFlow
-- Deep Learning
-- Generative AI
-
----
-
-## Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
-<img src="https://skillicons.dev/icons?i=linux"/>
-
-</p>
-
----
-
-> "Learning consistently. Building meaningful software. Growing every day."
-> <!-- ===================================================== -->
-<!--              AI / ML EXPERTISE                        -->
-<!-- ===================================================== -->
-
-# 🤖 AI / Machine Learning Expertise
-
-<table>
-<tr>
-<th>Domain</th>
-<th>Level</th>
-<th>Currently Learning / Building</th>
-</tr>
-
-<tr>
-<td>Python Programming</td>
-<td>★★★★☆</td>
-<td>Advanced OOP, Automation, Clean Architecture</td>
-</tr>
-
-<tr>
-<td>Machine Learning</td>
-<td>★★★☆☆</td>
-<td>Scikit-Learn, Model Training, Evaluation</td>
-</tr>
-
-<tr>
-<td>Deep Learning</td>
-<td>★★☆☆☆</td>
-<td>TensorFlow, Neural Networks</td>
-</tr>
-
-<tr>
-<td>Generative AI</td>
-<td>★★★☆☆</td>
-<td>LLMs, AI Agents, Prompt Engineering</td>
-</tr>
-
-<tr>
-<td>Software Engineering</td>
-<td>★★★★☆</td>
-<td>Git, GitHub, OOP, System Design</td>
-</tr>
-
-<tr>
-<td>Databases</td>
-<td>★★★★☆</td>
-<td>MySQL, SQL Optimization, DBMS</td>
-</tr>
-
-<tr>
-<td>Backend Development</td>
-<td>★★★☆☆</td>
-<td>Flask APIs, Authentication</td>
-</tr>
-
-<tr>
-<td>Data Structures & Algorithms</td>
-<td>★★★☆☆</td>
-<td>Arrays, Linked Lists, Trees, Graphs</td>
-</tr>
-
-</table>
-
----
-
-# 🚀 Featured Projects
-
----
-
-<details>
-<summary><b>🏦 AI Bank Management System</b></summary>
-
-### Overview
-
-A secure banking application built using **Python** and **MySQL** with a modular architecture.
-
-| Feature | Details |
-|---------|----------|
-| Language | Python |
-| Database | MySQL |
-| Architecture | Modular |
-| Authentication | Password Protected |
-| Transactions | Deposit, Withdraw, Transfer |
-| Security | Input Validation |
-| Future Scope | AI Fraud Detection |
-
-### Features
-
-- Create Account
-- Deposit Money
-- Withdraw Money
-- Balance Inquiry
-- Transaction History
-- Delete Account
-- Update Details
-- Login System
-- Database Integration
-- Modular Python Files
-
-### Future Improvements
-
-- Face Recognition Login
-- OTP Authentication
-- Mobile App
-- AI Spending Analysis
-- Fraud Detection
-- PDF Statements
-
-**Repository**
-
-```text
-https://github.com/JaswanthG-10/Bank-Management-System
-```
-
-</details>
-
----
-
-<details>
-<summary><b>🤖 Personal AI Assistant (Jarvis)</b></summary>
-
-### Overview
-
-A desktop AI assistant inspired by Jarvis capable of automating daily tasks.
-
-| Category | Details |
-|----------|---------|
-| Language | Python |
-| AI | LLM Integration |
-| Voice | Speech Recognition |
-| Automation | Desktop Automation |
-| Future | Local AI Assistant |
-
-### Features
-
-- Voice Commands
-- Open Applications
-- Search the Internet
-- AI Chat
-- File Search
-- Code Generation
-- Task Automation
-
-### Planned Features
-
-- Offline AI
-- Memory
-- Vision Support
-- PDF Chat
-- Calendar Integration
-- Email Assistant
-- Voice Cloning
-
-**Repository**
-
-```text
-Coming Soon
-```
-
-</details>
-
----
-
-<details>
-<summary><b>🧠 AI Question Paper Generator</b></summary>
-
-### Description
-
-An AI-powered system that generates university-style question papers from syllabus content.
-
-### Stack
-
-- Python
-- NLP
-- Prompt Engineering
-- LLM APIs
-
-### Features
-
-- Bloom's Taxonomy
-- Difficulty Levels
-- Unit-wise Questions
-- PDF Export
-- Faculty Dashboard
-
-**Status**
-
-🚧 Under Development
-
-</details>
-
----
-
-<details>
-<summary><b>📊 Student Performance Analytics</b></summary>
-
-### Description
-
-A dashboard for analyzing academic performance using AI-powered insights.
-
-### Planned Features
-
-- Attendance Analysis
-- Marks Prediction
-- Weak Topic Detection
-- Personalized Study Plan
-- Interactive Charts
-
-**Technology**
-
-Python • SQL • Power BI • Machine Learning
-
-</details>
-
----
-
-<details>
-<summary><b>💼 Future Enterprise AI Projects</b></summary>
-
-### Roadmap
-
-- AI Resume Analyzer
-- Interview Preparation Assistant
-- Finance Tracker
-- Expense Prediction AI
-- Smart Hostel Management
-- AI Notes Generator
-- AI Code Review Assistant
-- AI Learning Companion
-- Medical Assistant
-- Autonomous AI Agent
-
-</details>
-
----
-
-# 🎯 Current Learning Roadmap
-
-```text
-✔ Python
-✔ Java
-✔ SQL
-✔ DBMS
-✔ Git
-✔ GitHub
-
-⬜ Data Structures
-⬜ Algorithms
-⬜ Flask
-⬜ REST APIs
-⬜ Machine Learning
-⬜ Deep Learning
-⬜ TensorFlow
-⬜ PyTorch
-⬜ Docker
-⬜ AWS
-⬜ System Design
-⬜ Kubernetes
-⬜ CI/CD
-```
-
----
-
-> **"Build projects that solve real problems. Learn continuously. Share your knowledge."**
->
-> <!-- ===================================================== -->
-<!--        EXPERIENCE • ACHIEVEMENTS • CERTIFICATIONS      -->
-<!-- ===================================================== -->
-
-# 💼 Experience
-
-## 🎓 Computer Science Engineering Student
-**Rajalakshmi Engineering College**  
-*2025 – Present*
-
-Focused on building strong fundamentals in Software Engineering, Artificial Intelligence, Machine Learning, Databases, and Data Structures & Algorithms while developing real-world projects.
-
-### Responsibilities
-
-- Developing full-stack and AI-powered applications
-- Building portfolio projects using Python & MySQL
-- Practicing Data Structures & Algorithms
-- Learning Software Engineering principles
-- Exploring Generative AI & AI Agents
-- Contributing to GitHub regularly
-
-### Current Focus
-
-- Artificial Intelligence
-- Machine Learning
-- Backend Development
-- Database Systems
-- Software Engineering
-- Open Source
-
-**Skills**
-
-`Python` `Java` `MySQL` `Git` `GitHub` `VS Code` `Problem Solving`
-
----
-
-# 🏆 Achievements
-
-| Achievement | Details |
-|-------------|---------|
-| 🎓 Computer Science Student | Rajalakshmi Engineering College |
-| ⭐ Current CGPA | **8.1** |
-| 💻 GitHub Portfolio | Building production-ready projects |
-| 🤖 AI Learning | Active learner in Machine Learning & Generative AI |
-| 🗄 Database Skills | Python + MySQL project development |
-| 🚀 Career Goal | AI/ML Engineer & Software Engineer |
-
----
-
-# 📜 Certifications
-
-## ☁️ AWS
-
-- AWS Cloud Practitioner *(Planned)*
-- AWS AI Practitioner *(Planned)*
-- AWS Machine Learning *(Future Goal)*
-
----
-
-## ☕ Oracle
-
-- Oracle Java Foundations *(Planned)*
-- Oracle Database SQL *(Planned)*
-
----
-
-## 🌐 Cisco
-
-- Introduction to Cybersecurity *(Planned)*
-- Networking Essentials *(Planned)*
-
----
-
-## 🎓 NPTEL
-
-- Programming in Python *(Planned)*
-- DBMS *(Planned)*
-- Data Structures *(Planned)*
-- Machine Learning *(Future)*
-
----
-
-# 👨‍💻 Coding Profiles
-
-<p align="center">
 
 <a href="https://github.com/JaswanthG-10">
 <img src="https://img.shields.io/badge/GitHub-JaswanthG--10-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/LeetCode-Coming%20Soon-FFA116?style=for-the-badge&logo=leetcode"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/HackerRank-Coming%20Soon-2EC866?style=for-the-badge&logo=hackerrank"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Coming%20Soon-0F9D58?style=for-the-badge"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/CodeChef-Coming%20Soon-5B4638?style=for-the-badge"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=JaswanthG-10&style=for-the-badge&color=blue"/>
 
 </p>
 
----
-
-# 🌍 Leadership & Community
-
-- 🤝 Open to collaborating on AI & Software Engineering projects
-- 💡 Interested in Hackathons and Open Source
-- 📚 Passionate about continuous learning
-- 🚀 Building projects that solve real-world problems
-- 🌱 Sharing knowledge through GitHub
+</div>
 
 ---
 
-# 🎯 Career Vision
+# 👨‍💻 About Me
 
-### Short-Term Goals
+```python
+class Developer:
 
-- Master Data Structures & Algorithms
-- Build 10+ high-quality GitHub projects
-- Secure an AI/Software Engineering internship
-- Contribute to Open Source
+    def __init__(self):
+        self.name = "Jaswanth G"
 
-### Long-Term Goals
+        self.role = "Software Engineering Student"
 
-- Become an AI/ML Engineer
-- Work at a top global technology company
-- Build impactful AI products
-- Mentor aspiring developers
-- Launch AI-powered startup solutions
+        self.code = [
+            "Python",
+            "Java",
+            "C",
+            "SQL"
+        ]
+
+        self.database = "MySQL"
+
+        self.interests = [
+            "Software Engineering",
+            "Artificial Intelligence",
+            "Machine Learning"
+        ]
+
+        self.currently_building = [
+            "Bank Management System",
+            "AI Projects"
+        ]
+
+        self.learning = [
+            "DSA",
+            "Machine Learning",
+            "Backend Development"
+        ]
+
+    def motto(self):
+        return "Build • Learn • Improve • Repeat"
+
+me = Developer()
+```
 
 ---
 
-# 📈 2026 Learning Goals
+## 🚀 What Drives Me
 
-- ✅ Python
-- ✅ Java
-- ✅ SQL & DBMS
-- 🔄 Data Structures & Algorithms
-- 🔄 Flask & APIs
-- 🔄 Machine Learning
-- 🔄 Deep Learning
-- 🔄 System Design
-- 🔄 Docker & Kubernetes
-- 🔄 AWS Cloud
-- 🔄 Open Source Contributions
+> I enjoy building software that solves real problems rather than just completing tutorials. Every project teaches me something new about software engineering, debugging, and designing reliable systems.
 
 ---
 
-> **"Every line of code I write today is an investment in the engineer I aspire to become."**
->
-> <!-- ===================================================== -->
-<!--                GITHUB ANALYTICS                       -->
-<!-- ===================================================== -->
+## ⚡ Current Focus
+
+🧠 Learning Data Structures & Algorithms
+
+🐍 Writing better Python code every day
+
+🗄️ Building database-driven applications with MySQL
+
+🤖 Exploring AI & Machine Learning
+
+🚀 Preparing for Software Engineering internships
+
+---
+
+## 🛠 Tech Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,c"/>
+
+### Database
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+
+</div>
+
+---
+
+## 📌 Quick Snapshot
+
+| 🎓 Education          | BE Computer Science & Engineering  |
+| --------------------- | ---------------------------------- |
+| 💻 Main Language      | Python                             |
+| 🗄️ Database          | MySQL                              |
+| 🌱 Currently Learning | DSA & Machine Learning             |
+| 🎯 Career Goal        | Software Engineer → AI/ML Engineer |
+| 🚀 Favorite Activity  | Building Real-World Projects       |
+
+---
+
+<div align="center">
+
+### ⭐ *"Consistency compounds. Every commit is progress."*
+
+</div>
+
+---
+
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🏦 **Bank Management System** | Desktop banking application with secure account management, transactions, and MySQL integration. | `Python` `MySQL` `CustomTkinter` |
+| 🤖 **AI Assistant** *(In Progress)* | AI-powered assistant focused on automation and productivity using Python and modern AI tools. | `Python` `AI` |
+| 📊 **Student Analytics** *(Planned)* | Analyze student performance and generate insights using data analysis and machine learning. | `Python` `Pandas` `ML` |
+
+</div>
+
+---
+
+# 🏦 Bank Management System
+
+> A complete desktop banking application developed using **Python** and **MySQL**.
+
+### ✨ Features
+
+- ✅ Account Creation
+- ✅ Deposit & Withdrawal
+- ✅ Balance Enquiry
+- ✅ Customer Management
+- ✅ MySQL Database Integration
+- ✅ Modular Python Architecture
+- ✅ Interactive CustomTkinter Interface
+
+### 🛠 Technologies
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python"/>
+<img src="https://skillicons.dev/icons?i=mysql"/>
+<img src="https://skillicons.dev/icons?i=git"/>
+<img src="https://skillicons.dev/icons?i=github"/>
+
+</p>
+
+### 📂 Repository
+
+👉 **BANK_MANAGEMENT_SYSTEM**
+
+---
+
+# 💼 My Contributions
+
+✔ Designed the database schema
+
+✔ Integrated Python with MySQL
+
+✔ Implemented banking operations
+
+✔ Structured the project into modular files
+
+✔ Debugged and optimized SQL queries
+
+✔ Improved the desktop interface using CustomTkinter
+
+---
+
+# 🧩 Skills Demonstrated
+
+- Object-Oriented Programming
+- Database Design
+- CRUD Operations
+- SQL Queries
+- Python Programming
+- Debugging
+- Problem Solving
+- Version Control with Git
+
+---
+
+# 📈 Developer Journey
+
+```text
+Started Programming
+        │
+        ▼
+Learned Python
+        │
+        ▼
+Built CLI Applications
+        │
+        ▼
+Learned SQL & MySQL
+        │
+        ▼
+Built Bank Management System
+        │
+        ▼
+Learning Data Structures & Algorithms
+        │
+        ▼
+Exploring AI & Machine Learning
+        │
+        ▼
+Building Real-World Software
+        │
+        ▼
+Software Engineering Internship 🎯
+```
+
+---
+
+# 🏆 Highlights
+
+- 💻 Built a complete Python + MySQL desktop application
+- 📚 Continuously learning Data Structures & Algorithms
+- 🤖 Exploring AI & Machine Learning
+- 🌱 Improving software engineering skills through practical projects
+- 🚀 Actively expanding my GitHub portfolio with real-world applications
+
+---
+
+# 📚 Currently Exploring
+
+- Java
+- Data Structures & Algorithms
+- Machine Learning
+- Backend Development
+- Open Source Contributions
+- System Design (Basics)
+
+- ---
 
 # 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JaswanthG-10&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=JaswanthG-10&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaswanthG-10&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaswanthG-10&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -628,17 +282,7 @@ Focused on building strong fundamentals in Software Engineering, Artificial Inte
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=JaswanthG-10&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
-</div>
-
----
-
-# 📈 Contribution Activity
+# 📈 Contribution Graph
 
 <div align="center">
 
@@ -648,82 +292,214 @@ Focused on building strong fundamentals in Software Engineering, Artificial Inte
 
 ---
 
-# 🐍 Contribution Snake
+# 🏅 Achievements
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/JaswanthG-10/JaswanthG-10/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://github-profile-trophy.vercel.app/?username=JaswanthG-10&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
 
 </div>
 
-> **Note:** Enable the GitHub Action after creating your profile repository to generate the snake animation automatically.
-
 ---
 
-# 🎯 Current Focus
+# 📚 Learning Roadmap
 
-```yaml
-Learning:
-  - Data Structures & Algorithms
-  - Machine Learning
-  - Deep Learning
-  - System Design
-  - Cloud Computing
-  - Generative AI
-
-Building:
-  - Bank Management System
-  - Personal AI Assistant (Jarvis)
-  - AI Question Paper Generator
-  - Student Analytics Dashboard
-
-Exploring:
-  - Open Source
-  - Full Stack Development
-  - AI Agents
-  - Docker
-  - Kubernetes
-
-Open_To:
-  - AI/ML Internship
-  - Software Engineering Internship
-  - Open Source Collaboration
-  - Hackathons
+```text
+Python ✔
+      │
+      ▼
+Object-Oriented Programming ✔
+      │
+      ▼
+SQL & MySQL ✔
+      │
+      ▼
+Git & GitHub ✔
+      │
+      ▼
+Data Structures & Algorithms 🚀
+      │
+      ▼
+Machine Learning
+      │
+      ▼
+Deep Learning
+      │
+      ▼
+Generative AI
+      │
+      ▼
+Software Engineering Internship
 ```
 
 ---
 
-# 🌐 Connect With Me
+# 🎯 2026 Mission
+
+- ✅ Master Python
+- ✅ Strengthen SQL & Database Design
+- 🔄 Practice DSA consistently
+- 🔄 Build AI-powered applications
+- 🔄 Learn Machine Learning fundamentals
+- 🔄 Contribute to Open Source
+- 🎯 Secure a Software Engineering Internship
+
+---
+
+# 💡 Coding Philosophy
+
+> **"Good software isn't just code that works—it's code that's understandable, maintainable, and built with purpose."**
+
+I believe in understanding the problem first, designing a clear solution, and then using AI as a productivity tool to implement ideas faster while keeping my own reasoning at the center.
+
+---
+
+# 🌱 Beyond Coding
+
+- 🧩 Solving programming challenges
+- 📖 Learning new technologies
+- 🤝 Collaborating on projects
+- 💻 Building practical software
+- 🚀 Continuously improving every day
+
+---
+
+# 📌 Current Focus
+
+```python
+current_focus = {
+    "language": "Python",
+    "database": "MySQL",
+    "learning": [
+        "DSA",
+        "Java",
+        "Machine Learning"
+    ],
+    "goal": "Software Engineering Internship"
+}
+```
+
+---
+
+---
+
+# 🤝 Let's Connect
 
 <div align="center">
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 <a href="https://github.com/JaswanthG-10">
-<img src="https://img.shields.io/badge/GitHub-JaswanthG--10-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="mailto:jaswanthg274@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<!-- Replace with your LinkedIn URL -->
-<a href="#">
-<img src="https://img.shields.io/badge/LinkedIn-Coming_Soon-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<!-- Replace with your portfolio URL -->
-<a href="#">
-<img src="https://img.shields.io/badge/Portfolio-Coming_Soon-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-# 💡 Quote
+# 💬 Favorite Quote
 
 <div align="center">
 
-> **"Success is built one commit, one project, and one lesson at a time."**
+> **"Success isn't built overnight—it's built one commit at a time."**
+
+</div>
+
+---
+
+# 💻 Daily Workflow
+
+```text
+☀️ Learn
+      ↓
+🧠 Understand
+      ↓
+⌨️ Code
+      ↓
+🐛 Debug
+      ↓
+📚 Improve
+      ↓
+🚀 Build
+      ↓
+🔁 Repeat
+```
+
+---
+
+# 📈 2026 Progress
+
+| Goal | Status |
+|------|--------|
+| Python | ✅ |
+| SQL & MySQL | ✅ |
+| Git & GitHub | ✅ |
+| Bank Management System | ✅ |
+| Java | 🚧 |
+| DSA | 🚧 |
+| Machine Learning | 🚧 |
+| Open Source | ⏳ |
+| Internship | 🎯 |
+
+---
+
+# 🛠 Development Environment
+
+```yaml
+OS: Windows 11
+
+Editor: Visual Studio Code
+
+Languages:
+  - Python
+  - Java
+  - C
+
+Database:
+  - MySQL
+
+Version Control:
+  - Git
+  - GitHub
+
+GUI:
+  - CustomTkinter
+
+Learning:
+  - DSA
+  - Machine Learning
+```
+
+---
+
+# 📊 Weekly Coding
+
+```text
+Python        ███████████████░░░ 80%
+
+SQL           ████████████░░░░░░ 65%
+
+Java          ███████░░░░░░░░░░░ 40%
+
+DSA           ██████░░░░░░░░░░░░ 35%
+
+Machine Learning
+              ███░░░░░░░░░░░░░░░ 20%
+```
+
+---
+
+# ⭐ Visitor Counter
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=JaswanthG-10&style=for-the-badge&color=blue"/>
 
 </div>
 
@@ -731,16 +507,10 @@ Open_To:
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+## Thanks for visiting my profile! 👋
 
-If you like my work, consider **starring my repositories** and **following my GitHub journey**.
+### If you like my work, consider giving a ⭐ to my repositories.
 
-</div>
-
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,12,18,20,24"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=120&section=footer"/>
 
 </div>
