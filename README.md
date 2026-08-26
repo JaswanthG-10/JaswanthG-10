@@ -29,14 +29,15 @@
 
 | Category | Skills |
 |---|---|
-| **Languages** | Python · Java · SQL · C · JavaScript |
+| **Languages** | Python · Java · C · C++ · SQL · JavaScript · TypeScript |
 | **DSA** | Arrays · Trees & Graphs · Sorting · Recursion · DP |
-| **ML / AI** | NumPy · Pandas · scikit-learn · Model Evaluation |
-| **Web Dev** | REST APIs · React · Next.js · Django · Spring |
-| **Databases** | MySQL · MongoDB · Schema Design |
+| **ML / AI** | NumPy · Pandas · scikit-learn · TensorFlow · PyTorch |
+| **Web Dev** | REST APIs · React · Next.js · Django · Flask · Express · Spring |
+| **Styling** | Tailwind CSS · Bootstrap |
+| **Databases** | MySQL · PostgreSQL · MongoDB · Redis · SQLite |
 | **Practices** | OOP · Git Workflows · Testing · Clean Code · Agile |
-| **Cloud** | Vercel · Netlify · Render · Firebase · Azure |
-| **Tools** | Figma · Canva · Blender · Jenkins · Nginx |
+| **Cloud & DevOps** | Vercel · Netlify · Render · Firebase · Azure · AWS · Docker · Kubernetes |
+| **Tools** | Figma · Canva · Blender · Jenkins · Nginx · VS Code · Postman · Linux |
 
 </div>
 
@@ -47,15 +48,16 @@
 <div align="center">
 
 <marquee behavior="scroll" direction="left" scrollamount="4">
-<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,mysql,mongodb&theme=dark" height="50"/>&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,django,spring&theme=dark" height="50"/>&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,vercel,netlify,render,firebase,azure&theme=dark" height="50"/>&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=figma,canva,blender,jenkins,nginx&theme=dark" height="50"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,html,css&theme=dark" height="50"/>&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,flask,spring,tailwind,bootstrap&theme=dark" height="50"/>&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite&theme=dark" height="50"/>&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vercel,netlify,render,firebase,azure,aws,docker,kubernetes&theme=dark" height="50"/>&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=figma,canva,blender,jenkins,nginx,vscode,postman,linux&theme=dark" height="50"/>
 </marquee>
 
 </div>
 
-> 💡 `skillicons.dev` serves all icons in one lightweight request per line, so this strip loads far more reliably than individual per-skill badges. The scroll effect is a `<marquee>` tag, which GitHub renders natively — no external animation service required.
+> 💡 `skillicons.dev` batches icons into one request per row, so this loads far more reliably than individual per-skill badges. The scroll is a native `<marquee>` tag — no external animation service needed.
 
 <br>
 
@@ -70,17 +72,22 @@
 
 <br>
 
-## 🐍 Contribution Snake Animation
+## 📊 GitHub Metrics
 
 <div align="center">
 
-<!--START_SECTION:waving-snake-->
-<img src="https://raw.githubusercontent.com/JaswanthG-10/JaswanthG-10/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-<!--END_SECTION:waving-snake-->
+<img src="https://github-readme-stats.shion.dev/api?username=JaswanthG-10&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=JaswanthG-10&theme=radical&hide_border=true" height="165"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JaswanthG-10&theme=radical&hide_border=true" width="95%"/>
 
 </div>
 
-> 💡 **Setup note:** this needs a one-time GitHub Action in your profile repo — add [`Platane/snk`](https://github.com/Platane/snk) as a workflow. It regenerates the SVG on a schedule and commits it to an `output` branch. Until that workflow runs once, this image shows broken.
+> 💡 **Why this instead of the snake:** these three cards are generated live from the GitHub API on every page load — no workflow, no Action, no manual setup, no branch to keep in sync. That removes the entire class of error the snake had (a one-time setup step that's easy to skip or misconfigure).
+>
+> **What was actually broken in the screenshot:** the streak-stats card was pointed at `github-readme-streak-stats.herokuapp.com`, a domain that stopped resolving when Heroku killed free dynos in late 2022 — now fixed to point at the maintained `streak-stats.demolab.com` mirror. The activity graph had a typo (`theme=redical` instead of `radical`), which likely made that endpoint error out — now corrected. The stats card is now pulled from the `shion.dev` fork, the same reliable mirror your original profile README was already using.
+>
+> The one honest caveat that remains: these are still third-party hosted services, so if their servers happen to be down the images won't render — that's shared-infrastructure risk, not a config mistake, and it typically resolves on refresh.
 
 <br>
 
