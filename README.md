@@ -1,16 +1,26 @@
 <div align="center">
 
-<!-- Animated wave header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:06b6d4&height=200&section=header&text=Hi%20There,%20I'm%20Jaswanth%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20Enthusiast%20%7C%20Python%20Developer&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:06b6d4&height=220&section=header&text=Hi%20There,%20I'm%20Jaswanth%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Software%20Engineer%20%7C%20AI%20Enthusiast%20%7C%20Python%20Developer&descAlignY=52&descSize=17"/>
 
-<!-- Animated typing text -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&width=600&lines=Computer+Science+%26+Engineering+Student;Passionate+about+Software+Engineering+%26+AI;Python+Developer+with+MySQL+experience;Learning+DSA%2C+Java+%26+Machine+Learning;Open+to+Internships+%26+Open-Source+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=700&color=8B5CF6&center=true&vCenter=true&width=700&lines=Computer+Science+%26+Engineering+Student;Passionate+about+Software+Engineering+%26+AI;Python+Developer+with+MySQL+experience;Learning+DSA%2C+Java+%26+Machine+Learning;Open+to+Internships+%26+Open-Source+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
+
+<br><br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jaswanth--g10-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jaswanth-g10)
+[![Email](https://img.shields.io/badge/Email-jaswanthg274%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaswanthg274@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=JaswanthG-10&style=for-the-badge&color=8b5cf6&label=PROFILE+VIEWS)](https://github.com/JaswanthG-10)
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,100:06b6d4&height=3&section=header"/>
+
 <br>
+
+<table>
+<tr>
+<td width="55%" valign="top">
 
 ## 💫 About Me
 
@@ -21,7 +31,16 @@
 🌟 Open to:      Internships, Hackathons, Open-Source Collaboration
 ```
 
-<br>
+</td>
+<td width="45%" valign="top" align="center">
+
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,100:06b6d4&height=3&section=header"/>
 
 ## 🧠 Core Skills
 
@@ -33,11 +52,9 @@
 | **DSA** | Arrays · Trees & Graphs · Sorting · Recursion · DP |
 | **ML / AI** | NumPy · Pandas · scikit-learn · TensorFlow · PyTorch |
 | **Web Dev** | REST APIs · React · Next.js · Django · Flask · Express · Spring |
-| **Styling** | Tailwind CSS · Bootstrap |
 | **Databases** | MySQL · PostgreSQL · MongoDB · Redis · SQLite |
-| **Practices** | OOP · Git Workflows · Testing · Clean Code · Agile |
-| **Cloud & DevOps** | Vercel · Netlify · Render · Firebase · Azure · AWS · Docker · Kubernetes |
-| **Tools** | Figma · Canva · Blender · Jenkins · Nginx · VS Code · Postman · Linux |
+| **Cloud & DevOps** | AWS · Azure · Firebase · Vercel · Netlify · Render · Docker · Kubernetes |
+| **Tools** | Figma · Postman · Git · Linux · VS Code · Jenkins · Nginx |
 
 </div>
 
@@ -57,9 +74,76 @@
 
 </div>
 
-> 💡 `skillicons.dev` batches icons into one request per row, so this loads far more reliably than individual per-skill badges. The scroll is a native `<marquee>` tag — no external animation service needed.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,100:06b6d4&height=3&section=header"/>
+
+## 📊 GitHub Metrics
+
+<div align="center">
+
+<img src="https://github-readme-stats.shion.dev/api?username=JaswanthG-10&show_icons=true&theme=radical&hide_border=true&count_private=true&border_radius=10" height="165"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=JaswanthG-10&layout=compact&theme=radical&hide_border=true&border_radius=10" height="165"/>
 
 <br>
+
+<img src="https://streak-stats.demolab.com/?user=JaswanthG-10&theme=radical&hide_border=true&border_radius=10" height="165"/>
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JaswanthG-10&theme=radical&hide_border=true&area=true" width="95%"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,100:06b6d4&height=3&section=header"/>
+
+## 🛠️ Currently Building & Learning
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="55"/><br/>
+<b>Building</b><br/>
+<sub>Practical full-stack & ML projects to sharpen core engineering skills</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="55"/><br/>
+<b>Learning</b><br/>
+<sub>Data Structures & Algorithms, Java, and Machine Learning fundamentals</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="55"/><br/>
+<b>Looking to Collaborate</b><br/>
+<sub>Open-source contributions, hackathons, internships</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,100:06b6d4&height=3&section=header"/>
+
+## 🎯 Fun Facts Ticker
+
+<div align="center">
+
+<marquee behavior="scroll" direction="right" scrollamount="6">
+  <b>🔥 Building in public&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; ☕ Powered by coffee & curiosity&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 🌙 Most commits after midnight&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 🧩 Currently debugging life&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 🚀 Always shipping something</b>
+</marquee>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,100:06b6d4&height=3&section=header"/>
+
+## 💬 Quote of the Day
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="90%"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,100:06b6d4&height=3&section=header"/>
 
 ## 🌐 Connect With Me
 
@@ -68,29 +152,12 @@
 📇 **LinkedIn:** [linkedin.com/in/jaswanth-g10](https://linkedin.com/in/jaswanth-g10)
 📧 **Email:** [jaswanthg274@gmail.com](mailto:jaswanthg274@gmail.com)
 
-</div>
+<br><br>
 
-<br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="45"/>
 
-## 📊 GitHub Metrics
-
-<div align="center">
-
-<img src="https://github-readme-stats.shion.dev/api?username=JaswanthG-10&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
-<img src="https://streak-stats.demolab.com/?user=JaswanthG-10&theme=radical&hide_border=true" height="165"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JaswanthG-10&theme=radical&hide_border=true" width="95%"/>
+**Thanks for stopping by!**
 
 </div>
 
-> 💡 **Why this instead of the snake:** these three cards are generated live from the GitHub API on every page load — no workflow, no Action, no manual setup, no branch to keep in sync. That removes the entire class of error the snake had (a one-time setup step that's easy to skip or misconfigure).
->
-> **What was actually broken in the screenshot:** the streak-stats card was pointed at `github-readme-streak-stats.herokuapp.com`, a domain that stopped resolving when Heroku killed free dynos in late 2022 — now fixed to point at the maintained `streak-stats.demolab.com` mirror. The activity graph had a typo (`theme=redical` instead of `radical`), which likely made that endpoint error out — now corrected. The stats card is now pulled from the `shion.dev` fork, the same reliable mirror your original profile README was already using.
->
-> The one honest caveat that remains: these are still third-party hosted services, so if their servers happen to be down the images won't render — that's shared-infrastructure risk, not a config mistake, and it typically resolves on refresh.
-
-<br>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:6366f1&height=100&section=footer" width="100%"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:8b5cf6,100:6366f1&height=140&section=footer"/>
